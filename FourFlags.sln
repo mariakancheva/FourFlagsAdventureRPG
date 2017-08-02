@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFlags.Core", "FourFlags
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFlags.Models", "FourFlags.Models\FourFlags.Models.csproj", "{9A5EAC0D-231F-4F32-824D-8D2351032EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFlags.BussinessLogic", "FourFlags.BussinessLogic\FourFlags.BussinessLogic.csproj", "{85C5E9ED-35F1-4F4B-9A14-0E407AE7F2E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFlags.BusinessLogic", "FourFlags.BusinessLogic\FourFlags.BusinessLogic.csproj", "{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{9A5EAC0D-231F-4F32-824D-8D2351032EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A5EAC0D-231F-4F32-824D-8D2351032EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A5EAC0D-231F-4F32-824D-8D2351032EDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{85C5E9ED-35F1-4F4B-9A14-0E407AE7F2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{85C5E9ED-35F1-4F4B-9A14-0E407AE7F2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{85C5E9ED-35F1-4F4B-9A14-0E407AE7F2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{85C5E9ED-35F1-4F4B-9A14-0E407AE7F2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

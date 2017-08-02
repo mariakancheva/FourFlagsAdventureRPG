@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85C5E9ED-35F1-4F4B-9A14-0E407AE7F2E9}</ProjectGuid>
+    <ProjectGuid>{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FourFlags.BussinessLogic</RootNamespace>
-    <AssemblyName>FourFlags.BussinessLogic</AssemblyName>
+    <RootNamespace>FourFlags.BusinessLogic</RootNamespace>
+    <AssemblyName>FourFlags.BusinessLogic</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,11 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Factoryes\" />
+    <Folder Include="Factories\" />
     <Folder Include="MainLogic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
