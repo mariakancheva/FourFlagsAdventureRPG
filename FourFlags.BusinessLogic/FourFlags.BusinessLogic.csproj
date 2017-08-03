@@ -43,8 +43,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Factories\" />
     <Folder Include="MainLogic\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FourFlags.Models\FourFlags.Models.csproj">
+      <Project>{9A5EAC0D-231F-4F32-824D-8D2351032EDB}</Project>
+      <Name>FourFlags.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

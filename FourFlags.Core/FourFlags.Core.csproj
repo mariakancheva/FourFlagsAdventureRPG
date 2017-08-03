@@ -48,5 +48,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FourFlags.BusinessLogic\FourFlags.BusinessLogic.csproj">
+      <Project>{9D4C2C4D-D0AC-45F9-B41A-487729251DEC}</Project>
+      <Name>FourFlags.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FourFlags.Models\FourFlags.Models.csproj">
+      <Project>{9A5EAC0D-231F-4F32-824D-8D2351032EDB}</Project>
+      <Name>FourFlags.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
