@@ -40,7 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Heroes\Barbarian.cs" />
+    <Compile Include="Models\Heroes\Hero.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticData\GameDescriptions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Contracts\Creatures\" />
@@ -48,7 +51,6 @@
     <Folder Include="Contracts\Items\" />
     <Folder Include="Contracts\Quests\" />
     <Folder Include="Models\Creatures\" />
-    <Folder Include="Models\Heroes\" />
     <Folder Include="Models\Items\" />
     <Folder Include="Models\Quests\" />
   </ItemGroup>
