@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FourFlags.Models.Factories.EnemyFactory" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\EnemyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Enemies.BloodElf" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enemies\BloodElf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Enemies.Enemy" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAACACAEAAAgAAAEAAEAAAABIAAAAAAAAAAAgAQAAo=</HashCode>
+      <FileName>Models\Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Enemies.Goblin" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enemies\Goblin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Enemies.Orc" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enemies\Orc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Enemies.Vampire" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enemies\Vampire.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Heroes.Barbarian" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Heroes\Barbarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Heroes.Dwarf" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Heroes\Dwarf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Heroes.Hero" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQCAAAAggAAAMAAAAAQAAIFEAAACQABAAgAAQAs=</HashCode>
+      <FileName>Models\Heroes\Hero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Heroes.Paladin" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Heroes\Paladin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Quests.GatherQuest" Collapsed="true">
+    <Position X="15" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAMAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Quests\GatherQuest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Quests.HuntQuest" Collapsed="true">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAIAAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Quests\HuntQuest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Models.Quests.Quest" Collapsed="true">
+    <Position X="12.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAACAAAIAIAABAAQAAAAEAAEAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\Quests\Quest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Utilities.EnemyConstants" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAIAAAAAAAAAIAQAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\EnemyConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourFlagsRPG.Models.Utilities.HeroConstants" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAEAAIAAAACAACEAAAABAgAEAA=</HashCode>
+      <FileName>Utilities\HeroConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Beings.IAttackable" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Beings\IAttackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Beings.IBeing" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Contracts\Beings\IBeing.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Enemies.IEnemy" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Enemies\IEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Enemies.IRewardable" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Enemies\IRewardable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Quests.IGatherQuest" Collapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Quests\IGatherQuest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Quests.IHuntQuest" Collapsed="true">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\Quests\IHuntQuest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FourFlagsRPG.Models.Contracts.Quests.IQuest" Collapsed="true">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAIAAAAAAAQAAAAAAAEAAAAAAIAAAAA=</HashCode>
+      <FileName>Contracts\Quests\IQuest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FourFlagsRPG.Models.Enums.Enemies" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAKAAAAAAAAAAAIAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Enemies.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FourFlagsRPG.Models.Enums.Hero" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FourFlags.BusinessLogic")]
+[assembly: AssemblyTitle("FourFlagsRPG.Core")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FourFlags.BusinessLogic")]
+[assembly: AssemblyProduct("FourFlagsRPG.Core")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4034b6a6-1d9b-40d7-b686-2b018b6a0667")]
+[assembly: Guid("08c732e4-4f23-465e-aa9e-2755fbf6e445")]
 
 // Version information for an assembly consists of the following four values:
 //
